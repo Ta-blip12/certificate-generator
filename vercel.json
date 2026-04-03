@@ -5,6 +5,7 @@
   "env": {
     "PYTHON_VERSION": "3.11"
   },
+  "version": 1,
   "functions": {
     "api/generate.py": {
       "runtime": "python3.11"
