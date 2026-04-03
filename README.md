@@ -1,2 +1,0 @@
-# certificate-generator
-Certificate Generator
