@@ -8,7 +8,7 @@
   "version": 2,
   "functions": {
     "api/generate.py": {
-      "runtime": "vercel/python3.11"
+      "runtime": "vercel/python3.15"
     }
   }
 }
